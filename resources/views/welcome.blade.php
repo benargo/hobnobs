@@ -18,10 +18,10 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://benargo.com">Ben Argo</a>
-                    <a href="#" title="harrietcody.co.uk">Harriet Cody</a>
-                    <a href="http://dushyantkanungo.com">Dushyant Kanungo</a>
-                    <a href="http://gunnarpetzall.com">Gunnar Petzäll</a>
+                    <a href="https://benargo.com" title="benargo.com">Ben Argo</a>
+                    <a href="http://www.harrietcody.com" title="harrietcody.co.uk">Harriet Cody</a>
+                    <a href="http://dushyantkanungo.com" title="dushyantkanungo.com">Dushyant Kanungo</a>
+                    <a href="http://gunnarpetzall.com" title="gunnarpetzall.com">Gunnar Petzäll</a>
                 </div>
             </div>
         </div>
