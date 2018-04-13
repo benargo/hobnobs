@@ -6,6 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Hobnobs</title>
+        <meta name="description" content="We Are The Hobnobs: Ben Argo, Harriet Cody, Dushyant Kanungo & Gunnar Petzäll.">
 
         <!-- Styles -->
         <link href="{{ asset('css/app.css') }}" rel="stylesheet" type="text/css">
